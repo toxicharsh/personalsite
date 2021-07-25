@@ -1,0 +1,15 @@
+
+  body {background-color:Gainsboro;
+  border-style: dashed;}
+  hr {
+      border-style:dotted none none none;
+      width:5%;
+      height: 0px;
+      border-color:grey;
+      border-width: 5px;
+
+    }
+    h1{color: #00f2ea;
+       text-shadow:2px 2px #ff0050}
+    h3{color: #66BFBF;}
+    h2{color: #66BFBF;}
